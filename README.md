@@ -1,5 +1,7 @@
 # AboutMe
-# 👋 Hello, This is Ziadoon ^.^
+# 👋 Hello,
+
+![image](Assets/img/Banner.png)
 
 👨‍💻 I’m a Junior Data Scientist student at BeCode. <br/><br>
 👨‍🎓 Currently Looking for data science internship every where in belgium  [BeCode.org](https://becode.org/all-trainings/pedagogical-framework-ai-data-science/). <br/>
