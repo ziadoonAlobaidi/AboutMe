@@ -1,8 +1,7 @@
 # AboutMe
 # 👋 Hello, This is Ziadoon ^.^
 
-👨‍💻 I’m a Junior Data Scientist student at BeCode. <br/>
-<br>📚 I'm a non-fiction reader, which has boosted my domain knowledge of business a lot. <br/><br>🤖 I love automating tasks using agents, multi-agent systems, AI, and Python scripts. <br/><br>
+👨‍💻 I’m a Junior Data Scientist student at BeCode. <br/><br>
 👨‍🎓 Currently Looking for data science internship every where in belgium  [BeCode.org](https://becode.org/all-trainings/pedagogical-framework-ai-data-science/). <br/>
 
 
