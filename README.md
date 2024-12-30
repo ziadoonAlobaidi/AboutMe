@@ -4,7 +4,6 @@
 <h1 align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=10&color=0AF727&background=01041B&random=true&width=435&lines=Hello+it's+Ziadoon;Junior+Data+science;Looking+for+internship+%3AD" alt="Typing SVG" /></a>
 </h1>
-<hr/>
 
 ### Small Debrief, my Goal
 
