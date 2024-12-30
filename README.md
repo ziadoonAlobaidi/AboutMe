@@ -93,8 +93,8 @@ This metaphor reflects how I see growth - as a journey filled with discovery, ef
 
 ### 3️⃣ **Customer Churn Analysis**
 - **Goal**: Identified patterns leading to customer churn using historical data.
-- **Tools**: Python (Pandas, Matplotlib)
-- **Outcome**: Recommended strategies to reduce churn by 10%.
+- **Tools**: Python (Pandas, Matplotlib), PowerBI
+- **Outcome**: Recommended strategies to reduce churned Clients by product.
 <br/><br/>
 ## 🌐 Socials:
 
