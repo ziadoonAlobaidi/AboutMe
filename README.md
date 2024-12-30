@@ -5,11 +5,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=10&color=0AF727&background=01041B&random=true&width=435&lines=Hello+it's+Ziadoon;Junior+Data+science;Looking+for+internship+%3AD" alt="Typing SVG" /></a>
 </h1>
 
-
-👨‍💻Junior Data Scientist student at BeCode. <br/><br>
-👨‍🎓 Currently Looking for data science internship every where in belgium  [BeCode.org](https://becode.org/all-trainings/pedagogical-framework-ai-data-science/). <br/>
-
-
 I have recently completed a Data & AI apprenticeship at [BeCode](https://becode.org/all-trainings/pedagogical-framework-ai-data-science/). I've had the opportunity to work on various projects as part of a team or sometimes on my own, I also have experience working both remotely and on-site. I am currently looking for an internship in Data Analytics to enhance my skills and continue my professional development.
 
 <hr>
