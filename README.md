@@ -52,11 +52,6 @@ This metaphor reflects how I see growth - as a journey filled with discovery, ef
 <hr>
 <br><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ziadoonAlobaidi/zaid-immoscraper" title="Algorithms">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadoonAlobaidi&repo=zaid-immoscraper&theme=react&border_radius=10">
-  </a>
-</div>
-<div width="100%" align="center">
   <a align="right" href="https://github.com/ziadoonAlobaidi/BelgianLeaugePrediction" title="BelgianLeaugePrediction">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadoonAlobaidi&repo=BelgianLeaugePrediction&theme=react&border_radius=10">
   </a>
