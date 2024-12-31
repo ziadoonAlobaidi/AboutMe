@@ -75,21 +75,6 @@ This metaphor reflects how I see growth - as a journey filled with discovery, ef
 <br/>
 <br/>
 
-
-### 1️⃣ **Predictive Sales Analysis**
-- **Goal**: Built a machine learning model to predict monthly sales trends.
-- **Tools**: Python, scikit-learn, Power BI
-- **Outcome**: Improved accuracy of forecasts by 15%, enabling better decision-making.
-
-### 2️⃣ **Web Scraping for E-commerce Insights**
-- **Goal**: Scraped product data from e-commerce websites to analyze pricing trends.
-- **Tools**: Python (Scrapy, BeautifulSoup)
-- **Outcome**: Created an automated report on price fluctuations and competitor analysis.
-
-### 3️⃣ **Customer Churn Analysis**
-- **Goal**: Identified patterns leading to customer churn using historical data.
-- **Tools**: Python (Pandas, Matplotlib)
-- **Outcome**: Recommended strategies to reduce churned Clients by product.
 <br/><br/>
 ## 🌐 Socials:
 
