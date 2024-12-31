@@ -56,8 +56,8 @@ This metaphor reflects how I see growth - as a journey filled with discovery, ef
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadoonAlobaidi&repo=BelgianLeaugePrediction&theme=react&border_radius=10">
   </a>
 </div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+
+<div width="100%" align="left">
   <a align="left" href="https://github.com/ziadoonAlobaidi/immoMeZgZd" title="Turkce-Heceleme-CPP">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ziadoonAlobaidi&repo=immoMeZgZd&theme=react&border_radius=10">
   </a>
