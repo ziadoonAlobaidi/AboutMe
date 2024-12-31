@@ -68,7 +68,7 @@ This metaphor reflects how I see growth - as a journey filled with discovery, ef
 <br/><br/><br/><br/><br/><br/>
 
 <h4 align="center">
-  <a href="https://github.com/ziadoonAlobaid?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/ziadoonAlobaidi?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
 
